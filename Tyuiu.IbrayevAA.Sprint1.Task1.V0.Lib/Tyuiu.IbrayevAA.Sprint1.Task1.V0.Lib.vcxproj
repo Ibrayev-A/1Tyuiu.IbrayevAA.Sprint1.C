@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9db83169-c0b5-4ebc-9144-564421f3ce25}</ProjectGuid>
+    <ProjectGuid>{57d0578b-70ea-4ee4-a3cf-f1b28465b239}</ProjectGuid>
     <RootNamespace>TyuiuIbrayevAASprint1Task1V0Lib</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

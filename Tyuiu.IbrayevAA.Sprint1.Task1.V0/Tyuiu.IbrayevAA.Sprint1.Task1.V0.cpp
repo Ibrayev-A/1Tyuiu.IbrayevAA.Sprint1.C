@@ -2,10 +2,17 @@
 //
 
 #include <iostream>
+#include "..//Tyuiu.IbrayevAA.Sprint1.Task1.V0.Lib/Tyuiu.IbrayevAA.Sprint1.Task1.V0.Lib.cpp"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    ISprint1Task1* date = new Service();
+    setlocale(LC_ALL, "Russian");
+    int a;
+    printf("введите число = ");
+    scanf_s("%d", & a);
+    std::cout << date->Logic(a);
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
